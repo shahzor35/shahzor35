@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahzor35
+- 👋 Hi, I’m Shahzor ahmed
 - 👀 I’m interested in AI development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on building projects on AI
