@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahzor ahmed
-- 👀 I’m interested in AI development
+- 👀 I’m interested in AI-ML, WEB, APP development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on building projects on AI
+- 💞️ I’m looking to collaborate on building projects on python
 - 📫 How to reach me :- reach me at instagram at shahzorahmed3
 
 <!---
